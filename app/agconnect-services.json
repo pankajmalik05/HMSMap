@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"890852200000000072",
+		"product_id":"9105385871708548935",
+		"client_id":"316595497903064128",
+		"client_secret":"7546B9FB58FF1E8D27121DA106A4F12F805F9CE01F4B25108D2866E4022ADFCE",
+		"app_id":"101856433",
+		"package_name":"com.demoapp.hsmmap",
+		"api_key":"CV6RrVQBUYAKBI+9SlsXgQXTlRO/s/f35Q5wtnNVVvWre8gyyM3zhqUUtmjzExdQrZYCgKWGN7FxjLrykpD48whvf6EA"
+	},
+	"configuration_version":"1.0"
+}
